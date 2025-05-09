@@ -1,0 +1,5 @@
+location,modality,0 to 2,3 to 5,6 to 17,18 to 39,40 to 65,66 to 80,> 80,total,Comp,FU/PS,Contact Lens - Initial Fitting/Refitting,SCL,RGP,Diabetes,Glaucoma/Suspect
+WA,VA,0,0,0,17,82,191,27,317,246,49,0,2,2,84,77
+CA,VA,0,0,0,24,74,183,19,300,207,77,3,2,4,78,73
+FL,PP,0,1,10,87,192,66,5,361,287,64,127,165,14,8,24
+MA,CH,0,13,51,76,165,62,22,389,324,63,11,8,1,95,41
